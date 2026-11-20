@@ -3,4 +3,3 @@ kind: Kustomization
 resources:
 - ../models/granite-4-tiny/catalog
 - ../models/smollm2-135m-instruct/catalog
-- ../models/tc-02-cli-unplaced/catalog
