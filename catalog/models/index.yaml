@@ -1,4 +1,5 @@
 models:
 - granite-4-tiny
 - smollm2-135m-instruct
+- tc-02-cli-unplaced
 - tc-02-ui-unplaced
