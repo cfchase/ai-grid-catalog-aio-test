@@ -1,0 +1,4 @@
+models:
+- granite-4-tiny
+- smollm2-135m-instruct
+- smollm2-135m-instruct-test
