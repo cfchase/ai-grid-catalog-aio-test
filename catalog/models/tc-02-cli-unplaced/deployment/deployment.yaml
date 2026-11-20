@@ -2,8 +2,8 @@ apiVersion: serving.kserve.io/v1alpha2
 kind: LLMInferenceService
 metadata:
   annotations:
-    ai-grid/clusters: ""
-    ai-grid/version: "1"
+    ai-grid/clusters: site-c
+    ai-grid/version: "2"
   labels:
     ai-grid/model: tc-02-cli-unplaced
     app.kubernetes.io/managed-by: ai-grid-provider-backend
