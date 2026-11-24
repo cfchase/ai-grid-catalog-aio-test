@@ -2,7 +2,7 @@ apiVersion: maas.opendatahub.io/v1alpha1
 kind: MaaSSubscription
 metadata:
   annotations:
-    ai-grid/version: "2"
+    ai-grid/version: "3"
   name: tenant1-crud-smoke-20261124
   namespace: models-as-a-service
 spec:
@@ -19,7 +19,7 @@ spec:
     - name: tenant1/developers
     users:
     - sa-user
-  priority: 5
+  priority: 2
 ---
 apiVersion: maas.opendatahub.io/v1alpha1
 kind: MaaSAuthPolicy
